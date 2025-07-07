@@ -1,0 +1,4 @@
+development:
+    dialect: mysql
+    datasource: root:password@tcp(127.0.0.1:3306)/gin_handson?parseTime=true
+    dir: migrations
